@@ -244,3 +244,11 @@ function toggleFullScreen() {
     }  
   }  
 }
+
+var to_execute = prompt("Wich program do you want to execute ?");
+function execute(){
+	if(prompt == "browser")
+	{
+		
+	}
+}
